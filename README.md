@@ -3,7 +3,7 @@ An easy way to export pages and widgets to an xml.
 
 ##Preview
 
-![x-unloader](images/preview.png "x-unloader")
+![x-unloader](images/preview.jpg "x-unloader")
 
 ## Installation
 
