@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update><sp_page action="INSERT_OR_UPDATE"><css/><id>x-page-unloader</id><internal>false</internal><public>false</public><roles/><short_description>Unload a portal page to an xml file - page, containers, rows, columns, instances, widgets, dependent</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a9ffb4b9df771200ba13a4836bf263b5</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x-page-unloader</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_page_a9ffb4b9df771200ba13a4836bf263b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-11 11:29:29</sys_updated_on><title>Portal Page Unloader</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=a9ffb4b9df771200ba13a4836bf263b5"/><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Portal Page Unloader - Container 1</name><order>1</order><sp_page display_value="x-page-unloader">a9ffb4b9df771200ba13a4836bf263b5</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>61ffb4b9df771200ba13a4836bf263b6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Portal Page Unloader - Container 1</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_61ffb4b9df771200ba13a4836bf263b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-11 16:37:22</sys_updated_on><width>container</width></sp_container><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Portal Page Unloader - Container 1">61ffb4b9df771200ba13a4836bf263b6</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e5ffb4b9df771200ba13a4836bf263b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_e5ffb4b9df771200ba13a4836bf263b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-04 14:44:40</sys_updated_on></sp_row><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">e5ffb4b9df771200ba13a4836bf263b6</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>6dffb4b9df771200ba13a4836bf263b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_6dffb4b9df771200ba13a4836bf263b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-04 14:44:40</sys_updated_on></sp_column><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><short_description/><size>md</size><sp_column display_value="1">6dffb4b9df771200ba13a4836bf263b6</sp_column><sp_widget display_value="x-page-unloader">e9ffb4b9df771200ba13a4836bf263b4</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e1ffb4b9df771200ba13a4836bf263b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_e1ffb4b9df771200ba13a4836bf263b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-04 14:44:40</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=e1ffb4b9df771200ba13a4836bf263b7"/><m2m_sp_widget_script_include action="INSERT_OR_UPDATE"><sp_widget display_value="x-page-unloader">e9ffb4b9df771200ba13a4836bf263b4</sp_widget><sys_class_name>m2m_sp_widget_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-07 18:53:11</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1f95d132df731200ba13a4836bf263f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x-page-unload.xspMapper</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_script_include display_value="xspMapper">566484fadf331200ba13a4836bf263d4</sys_script_include><sys_update_name>m2m_sp_widget_script_include_1f95d132df731200ba13a4836bf263f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-07 18:53:11</sys_updated_on></m2m_sp_widget_script_include><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>global.xspMapper</api_name><client_callable>false</client_callable><description>Service Portal page and widget map</description><name>xspMapper</name><script><![CDATA[/** 
+ * service portal mapping routines for pages and widgets
+ * xspMapper().pageMap('page-id', callback);  // note - not a sys_id
+ * xspMapper().dependencyMap(sys_id, callback);
+ * 
+ * callback is with the GlideRecord for the row
+ **/
+
+var xspMapper = function(id) {
+	// dependencyMap
+	// m2m_sp_widget_dependency -> 
+	//  sp_dependency -> 
+	//  m2m_sp_dependency_css_include ->
+	//    sp_css_include ->
+	//      sp_css
+	//  m2m_sp_dependency_js_include ->
+	//    sp_js_include ->
+	//       sys_ui_script	
+	function dependencyMap(sys_id, callback, thisArg) {
+		var gr = getGR('m2m_sp_widget_dependency', 'sp_widget', sys_id);
+		while (gr.next()) {
+			callback.call(thisArg, gr);
+			var mgr = getGR('sp_dependency', 'sys_id', gr.getValue('sp_dependency'));
+			while (mgr.next()) {
+				callback.call(thisArg, mgr);
+				getCSS(mgr.getUniqueValue());
+				getJS(mgr.getUniqueValue());
+			}
+		}
+		
+		gr = getGR('m2m_sp_widget_script_include', 'sp_widget', sys_id);
+		while (gr.next()) {
+			callback.call(thisArg, gr);
+			var sigr = getGR('sys_script_include', 'sys_id', gr.getValue('sys_script_include'));
+			while (sigr.next()) {
+				callback.call(thisArg, sigr);
+			}
+		}
+
+		function getCSS(sys_id) {
+			var gr = getGR('m2m_sp_dependency_css_include', 'sp_dependency', sys_id);
+			while (gr.next()) {
+				callback.call(thisArg, gr);
+				var mgr = getGR('sp_css_include', 'sys_id', gr.getValue('sp_css_include'));
+				while (mgr.next()) {
+					callback.call(thisArg, mgr);
+					var jid = mgr.getValue('sp_css');
+					if (!jid)
+						continue;
+
+					var jgr = getGR('sp_css', 'sys_id', jid);
+					while (jgr.next())
+						callback.call(thisArg, jgr);
+				}
+			}
+		}
+
+		function getJS(sys_id) {
+			var gr = getGR('m2m_sp_dependency_js_include', 'sp_dependency', sys_id);
+			while (gr.next()) {
+				callback.call(thisArg, gr);
+				var mgr = getGR('sp_js_include', 'sys_id', gr.getValue('sp_js_include'));
+				while (mgr.next()) {
+					callback.call(thisArg, mgr);
+					var jid = mgr.getValue('sys_ui_script');
+					if (!jid)
+						continue;
+
+					var jgr = getGR('sys_ui_script', 'sys_id', jid);
+					while (jgr.next())
+						callback.call(thisArg, jgr);
+				}
+			}
+		}
+	}
+
+	// pageMap 
+	// runs through the records that comprise a page, 
+	// callback for each record
+	function pageMap(id, callback, thisArg) {
+		var gr = getGR('sp_page', 'id', id);
+		gr.next();
+		callback.call(thisArg, gr);
+		getContainers(gr.getValue('sys_id')); 
+
+		function getContainers(sys_id) {
+			var t = getGR('sp_container', 'sp_page', sys_id);
+			while (t.next()) {
+				callback.call(thisArg, t);
+				getRows(t.getValue('sys_id'));
+			}
+		}
+
+		function getRows(sys_id) {
+			var n = 1;
+			var t = getGR('sp_row', 'sp_container', sys_id);
+			while (t.next()) {
+				callback.call(thisArg, t);
+				getColumns(t.getValue('sys_id'));
+			}
+		}
+
+		function getColumns(sys_id) {
+			var t = getGR('sp_column', 'sp_row', sys_id);
+			while (t.next()) {
+				callback.call(thisArg, t);
+				getWidgetInstances(t.getValue('sys_id'));
+				getNestedRows(t.getValue('sys_id'))
+			}
+		}
+
+		function getNestedRows(sys_id) {
+			var t = getGR('sp_row', 'sp_column', sys_id);
+			while (t.next()) {
+				callback.call(thisArg, t);
+				getColumns(t.getValue('sys_id'));
+			}
+		}
+
+		function getWidgetInstances(sys_id) {
+			var n = 1;
+			var t = getGR('sp_instance', 'sp_column', sys_id);
+			while (t.next()) {
+				callback.call(thisArg, t);
+				getWidget(t.getValue('sys_id'), t.getValue('sp_widget'));
+			}
+		}
+
+		function getWidget(parent, sys_id) {
+			var t = new GlideRecord('sp_widget');
+			t.get(sys_id);
+			if (!t.isValidRecord()) {
+				gs.log(">>> missing widget " + sys_id);
+				return;
+			}
+			callback.call(thisArg, t);
+		}
+	}
+	
+	function getGR(table, field, value) {
+		var t = new GlideRecord(table);
+		t.addQuery(field, value);
+		t.query();
+		return t;
+	}
+
+	return {
+		dependencyMap : dependencyMap,
+		pageMap: pageMap
+	}
+}]]></script><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-07 12:58:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>566484fadf331200ba13a4836bf263d4</sys_id><sys_mod_count>15</sys_mod_count><sys_name>xspMapper</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_script_include_566484fadf331200ba13a4836bf263d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-07 22:56:25</sys_updated_on></sys_script_include><sp_widget action="INSERT_OR_UPDATE"><client_script><![CDATA[function ($scope, $location) {
+	var c = this;
+	c.pageActive = c.data.type == 'p';
+	c.widgetActive = !c.pageActive;
+	
+	// unload payload 
+	if (c.data.xml) {
+		var xml = c.data.xml;
+		var t = encodeURIComponent(xml);
+		t = 'data:application/xml;charset=utf-8,' + t;
+		$('#unload').attr('href', t);
+		var $x = $.parseXML(xml);
+		$x = $($x);
+		setFileName($x);
+		setContents($x);
+	}
+
+	// page sn-record-picker
+	c.page = {
+		displayValue: c.data.title,
+		value: c.data.id,
+		name: 'page'
+	}
+	
+	// widget sn-record-picker
+	c.vidget = {
+		displayValue: c.data.wtitle,
+		value: c.data.wid,
+		name: 'widget'
+	}
+
+	$scope.$on("field.change", function(evt, parms) {
+		var n = parms.field.name;
+		if (n == 'page')
+			changePage('p', parms.newValue);
+		else if (n == 'widget')
+			changePage('w', parms.newValue);
+	})
+
+	function changePage(type, p) {
+		var searchParms = $location.search();
+		$location.search({id: searchParms.id, p: p, t:type});
+	}
+
+	// file name from title in sp_page unload or widget
+	function setFileName($x) {
+		var $c = $x.children();
+		var prefix = "page.";
+		if (c.data.type == 'p') {
+			$c = $c.children('sp_page').children('title');			
+		} else if (c.data.type == 'w') {
+			$c = $c.children('sp_widget').children('name');
+			prefix = "widget."
+		}
+
+		var t = $c.text();
+		t = t.replace(/[^a-zA-Z0-9]/g, "_");
+		c.fileName = prefix + t.toLowerCase();
+	}
+	
+	// builds the contents record count by table object
+	function setContents($x) {
+		var $c = $x.children();
+		$c = $c.children();
+		c.contents = {};
+		$c.each(function (index) {
+			var child = this;
+			var n = child.tagName;
+			if (!c.contents[n])
+				c.contents[n] = 0;
+
+			c.contents[n]++;
+		})
+	}
+}]]></client_script><controller_as>c</controller_as><css/><data_table>sp_instance</data_table><demo_data/><description/><docs display_value="variables">555f5c7bcb02120000f8d856634c9ce7</docs><field_list/><has_preview>false</has_preview><id>x-page-unloader</id><internal>false</internal><link/><name>x-page-unloader</name><option_schema/><public>false</public><roles>admin</roles><script><![CDATA[(function() {
+	data.type = $sp.getParameter('t') || 'p';
+	var id = $sp.getParameter('p');
+	if (!id) {
+		data.id = null;
+		return;
+	}
+	
+	var mapper = xspMapper();
+	var xml = GlideXMLUtil.newDocument('record_update');
+	var unloaded = [];
+	var u = new GlideUnloader();
+	if (data.type == 'w') {
+		// widget unload
+		data.wid = id;
+		var wgr = new GlideRecord('sp_widget');
+		wgr.get(id);
+		data.wtitle = wgr.getValue('name');
+		unload(wgr);
+		data.xml = GlideXMLUtil.toString(xml);
+	} else {
+		// page unload
+		data.id = id;
+		mapper.pageMap(data.id, unload);
+		data.xml = GlideXMLUtil.toString(xml);
+	}
+	
+	// called for each record in the page by mapper
+	function unload(gr) {
+		var tableName = gr.getTableName();
+		var id = gr.getUniqueValue();
+		if (unloaded.indexOf(id) > -1) 
+			return;
+
+		unloaded.push(id);
+
+		if ('sp_page' == tableName)
+			data.title = gr.getValue('title');
+		else if ('sp_widget' == tableName)
+			mapper.dependencyMap(id, unload);
+		
+		u.unloadGlideRecord(xml, gr, "INSERT_OR_UPDATE");		
+	}
+})();]]></script><servicenow>false</servicenow><sys_class_name>sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-06-04 14:44:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e9ffb4b9df771200ba13a4836bf263b4</sys_id><sys_mod_count>195</sys_mod_count><sys_name>x-page-unloader</sys_name><sys_package display_value="Service Portal Test Pages" source="com.glide.service-portal.test">83f6dd5d6790220023c82e08f585ef36</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_widget_e9ffb4b9df771200ba13a4836bf263b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-06-11 11:31:09</sys_updated_on><template><![CDATA[<div>
+  <h4>Unload a page or a widget to an XML file</h4>
+  <uib-tabset >
+    <uib-tab index="0" heading="Page" active="c.pageActive">
+      <h5>The unload will contain the page, containers, rows, columns, widgets and dependencies</h5>
+      <sn-record-picker field="c.page" table="'sp_page'" display-field="'title'" value-field="'id'" 
+                        display-fields="'id'" search-fields="'id,title'" page-size="100" 
+                        placeholder="Select Page..."></sn-record-picker>
+
+    </uib-tab>
+    <uib-tab index="1" heading="Widget" active="c.widgetActive">
+      <h5>The unload will contain the widget and dependencies</h5>
+      <sn-record-picker field="c.vidget" table="'sp_widget'" 
+                        display-field="'name'"
+                        display-fields="'id'"
+                        value-field="'sys_id'" 
+                        search-fields="'name,id'" page-size="100" 
+                        placeholder="Select Widget..."></sn-record-picker>
+
+    </uib-tab>
+  </uib-tabset>  
+
+  <p>
+
+  <div ng-show="c.data.xml.length">
+    <a id="unload" class="btn btn-primary" href="" download="{{c.fileName}}.xml"><fa name="download"></fa> Download</a>  
+  </div>
+  <p>
+  <div ng-show="c.data.xml.length" class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">Contents of file: {{c.fileName}}.xml</div></div>
+    <div class="panel-body">
+      <div>Size: {{c.data.xml.length | number:0}} bytes</div>
+      <div>Records unloaded:</div>
+      <ul class="list-unstyled">
+        <li ng-repeat="(k, v) in c.contents">{{v}} {{k}}</li>
+      </ul>
+    </div>
+  </div>
+</div>]]></template></sp_widget></record_update>
