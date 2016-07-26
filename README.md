@@ -9,4 +9,4 @@ An easy way to export pages and widgets to an xml.
 
 1. Go to [`x-unloader.xml`](src/x-unloader.xml?raw=true) and right click, Save As...
 2. Go to your instance and import the downloaded xml file using [`x-loader`](https://github.com/service-portal/x-loader)
-3. Go to yourinstance/$sp.do?id=x-unloader to use the widget
+3. View the widget by navigating to `/$sp.do?id=x-page-unloader`
